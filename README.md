@@ -1,11 +1,11 @@
-<div style="display:flex; justify-content:center; align-items:center; height:100vh;">
-  <b> Hello Dosto 👋</b>
-</div>
+# Hello Dosto 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=PostgreSQL+Developer+at+Atos;3%2B+Experience+in+Migration" alt="Typing SVG" /></a>
 
 # 💫 About Me:
-🔭 Currently working on Atos as PostgreSQL developer, Database Migration and DevOps engineering.<br>🌱 Always learning about emerging technologies and best practices.<br>👯 Looking to collaborate on PostgreSQL project, Migration project, open-source projects and DevOps initiatives.<br>💬 Ask me about PostgreSQL Database, Cloud Migration, Migration Oracle to PostgreSQL, DevOps Engineering<br>⚡ Fun fact: I love learn new tech.
+I'm a PostgreSQL Developer & Database Migration from India, with 3+ years of professional experience in an on-site environment. Migrate the database within on-prem as well as in the cloud using some tools.
+
+🔭 Currently working at Atos as a PostgreSQL developer, Database Migration, and DevOps engineer.<br>🌱 Always learning about emerging technologies and best practices.<br>👯 Looking to collaborate on PostgreSQL project, Migration project, open-source projects, and DevOps initiatives.<br>💬 Ask me about PostgreSQL Database, Cloud Migration, Migration Oracle to PostgreSQL, DevOps Engineering<br>⚡ Fun fact: I love learn new tech.
 
 
 ## 🌐 Socials:
