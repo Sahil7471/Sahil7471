@@ -1,5 +1,6 @@
-<a href="#" style="display:block; text-align:center;">Hello Dosto 👋</a>
-
+<div style="display:flex; justify-content:center; align-items:center; height:100vh;">
+  <a href="#">Hello Dosto 👋</a>
+</div>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=PostgreSQL+Developer+at+Atos;3%2B+Experience+in+Migration" alt="Typing SVG" /></a>
