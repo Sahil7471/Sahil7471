@@ -1,7 +1,7 @@
 Hello Dosto 👋
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=PostgreSQL+Developer+at+Atos" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=PostgreSQL+Developer+at+Atos;3%2B+Experience+in+Migration" alt="Typing SVG" /></a>
 
 
 # 💫 About Me:
