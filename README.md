@@ -1,3 +1,6 @@
+Hello Dosto 👋
+https://readme-typing-svg.herokuapp.com/demo/?lines=PostgreSQL+Developer+at+Atos
+
 # 💫 About Me:
 🔭 Currently working on Atos as PostgreSQL developer, Database Migration and DevOps engineering.<br>🌱 Always learning about emerging technologies and best practices.<br>👯 Looking to collaborate on PostgreSQL project, Migration project, open-source projects and DevOps initiatives.<br>💬 Ask me about PostgreSQL Database, Cloud Migration, Migration oracle to PostgreSQL, DevOps Engineering<br>⚡ Fun fact: I love learn new tech.
 
